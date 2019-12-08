@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Firebase
+.firebaserc
+
+# Package lock
+package-lock.json
+
+#PHPStorm
+.idea
